@@ -16,17 +16,14 @@ Classification: Based on customer personal information, we can predict which bic
 with different marketing strategy.
 
 ### Project Structure
-Data Cleaning
-    ---Winsorization
+1. Unsupervised Model: K-Means
 
-1) Unsupervised Model: K-Means
-
-2）Supervised Model: Regression 
+2. Supervised Model: Regression 
     2.1 Data Preprocessing - One Hot Encoder
     2.2 Data Preprocessing - Standarization
     2.3 Linear Regression - OLS
 
-3) Supervised Model: Classification
+3. Supervised Model: Classification
     3.1 Classification Models
         3.1.1 Logistic Regression 
         3.1.2 K Nearest Neighbors
@@ -36,6 +33,4 @@ Data Cleaning
         3.1.6 Support Vector Machine 
         3.1.7 Neural Network w/ Indentity Activation Function 
         3.1.8 Table of Prediction Score
-    3.2 Model Improvement - Cross Validation
-
-Summary          
+    3.2 Model Improvement - Cross Validation        

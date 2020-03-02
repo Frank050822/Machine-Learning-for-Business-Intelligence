@@ -19,9 +19,9 @@ with different marketing strategy.
 1. Unsupervised Model: K-Means
 
 2. Supervised Model: Regression 
-    2.1 Data Preprocessing - One Hot Encoder
-    2.2 Data Preprocessing - Standarization
-    2.3 Linear Regression - OLS
+2.1 Data Preprocessing - One Hot Encoder
+2.2 Data Preprocessing - Standarization
+2.3 Linear Regression - OLS
 
 3. Supervised Model: Classification
     3.1 Classification Models

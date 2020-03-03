@@ -5,7 +5,7 @@
 Designed, developed and deployed machine learning models to perform thorough customer segmentation analysis and map the target market for company’s products and services
 
 ### Project Structure
-1. **Developed a website to collect personal information using HTML
+1. **Developed a website to collect personal information using HTML**
 2. **Data was stored and connected to local database using PHP
 3. **Sorted information by Extract-Transform-Load process using SQL  
 4. **Imported new dataset using PyMySQL library 

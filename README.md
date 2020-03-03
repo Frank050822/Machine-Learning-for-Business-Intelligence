@@ -18,7 +18,8 @@ with different marketing strategy.
 ### Project Structure
 1. Unsupervised Model: K-Means
 
-2. Supervised Model: Regression- Data Preprocessing - One Hot Encoder / Data Preprocessing - Standarization / Linear Regression - OLS
+2. Supervised Model: 
+- 2.1 Regression- Data Preprocessing - One Hot Encoder / Data Preprocessing - Standarization / Linear Regression - OLS
 
 
 3. Supervised Model: Classification-
